@@ -2,17 +2,17 @@
   "images" : [
     {
       "idiom" : "iphone",
-      "filename" : "Burlington-Banner471x140.png",
+      "filename" : "vaughBanner_471x140.png",
       "scale" : "1x"
     },
     {
       "idiom" : "iphone",
-      "filename" : "Burlington-Banner942x280.png",
+      "filename" : "vaughBanner_942x280.png",
       "scale" : "2x"
     },
     {
       "idiom" : "iphone",
-      "filename" : "Burlington-Banner1413x420.png",
+      "filename" : "vaughBanner_1413x420.png",
       "scale" : "3x"
     }
   ],
