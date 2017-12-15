@@ -58,13 +58,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "GeoReporter/Controllers/HomeController.m"
-            timestampString = "513437772.701326"
+            timestampString = "534885018.68606"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "299"
             endingLineNumber = "299"
-            landmarkName = "-locationUpdated"
-            landmarkType = "7">
+            landmarkName = "HomeController"
+            landmarkType = "3">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -74,7 +74,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "GeoReporter/Controllers/HomeController.m"
-            timestampString = "513437772.701326"
+            timestampString = "534885018.687649"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "270"
@@ -90,7 +90,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "GeoReporter/Controllers/HomeController.m"
-            timestampString = "513437772.701326"
+            timestampString = "534885018.689266"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "353"
@@ -106,7 +106,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "GeoReporter/Controllers/HomeController.m"
-            timestampString = "513437772.701326"
+            timestampString = "534885018.69157"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "357"
@@ -122,7 +122,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "GeoReporter/Controllers/HomeController.m"
-            timestampString = "513437772.701326"
+            timestampString = "534885018.693064"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "384"
@@ -138,7 +138,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "GeoReporter/Controllers/HomeController.m"
-            timestampString = "513437772.701326"
+            timestampString = "534885018.694458"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "374"
@@ -154,7 +154,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "GeoReporter/Controllers/ReportFields/LocationController.m"
-            timestampString = "508189191.768706"
+            timestampString = "534885018.69568"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "37"
@@ -186,7 +186,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "GeoReporter/Controllers/HomeController.m"
-            timestampString = "513436117.371139"
+            timestampString = "534885018.695819"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "178"
@@ -202,7 +202,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "GeoReporter/Controllers/HomeController.m"
-            timestampString = "513437772.701326"
+            timestampString = "534885018.696931"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "345"
@@ -250,7 +250,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "GeoReporter/Controllers/HomeController.m"
-            timestampString = "513296226.995772"
+            timestampString = "534885018.698145"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "41"
@@ -266,7 +266,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "GeoReporter/Controllers/HomeController.m"
-            timestampString = "513436117.371139"
+            timestampString = "534885018.699217"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "195"
@@ -287,8 +287,8 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "302"
             endingLineNumber = "302"
-            landmarkName = "-numberOfSectionsInTableView:"
-            landmarkType = "7">
+            landmarkName = "ReportController"
+            landmarkType = "3">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -431,8 +431,8 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "314"
             endingLineNumber = "314"
-            landmarkName = "-tableView:numberOfRowsInSection:"
-            landmarkType = "7">
+            landmarkName = "ReportController"
+            landmarkType = "3">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -447,8 +447,8 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "379"
             endingLineNumber = "379"
-            landmarkName = "-tableView:viewForHeaderInSection:"
-            landmarkType = "7">
+            landmarkName = "ReportController"
+            landmarkType = "3">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -522,7 +522,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "GeoReporter/Controllers/HomeController.m"
-            timestampString = "513296226.995772"
+            timestampString = "534885018.70065"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "53"
@@ -538,7 +538,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "GeoReporter/Controllers/HomeController.m"
-            timestampString = "513296226.995772"
+            timestampString = "534885018.701679"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "56"
@@ -607,7 +607,7 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "994"
             endingLineNumber = "994"
-            landmarkName = "@implementation ReportController"
+            landmarkName = "ReportController"
             landmarkType = "3">
          </BreakpointContent>
       </BreakpointProxy>
@@ -735,7 +735,7 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "756"
             endingLineNumber = "756"
-            landmarkName = "@implementation ReportController"
+            landmarkName = "ReportController"
             landmarkType = "3">
          </BreakpointContent>
       </BreakpointProxy>
@@ -751,7 +751,7 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "755"
             endingLineNumber = "755"
-            landmarkName = "@implementation ReportController"
+            landmarkName = "ReportController"
             landmarkType = "3">
          </BreakpointContent>
       </BreakpointProxy>
@@ -807,30 +807,30 @@
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "-[ReportController reportImage]"
-                  moduleName = "NOLA311"
+                  moduleName = "Vaughan311"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/developer/SkyDrive/RESPOND311-NOLA/GeoReporter/GeoReporter/Controllers/ReportController.h"
-                  timestampString = "519248385.660011"
+                  urlString = "file:///Users/developer/SkyDrive/RESPOND311-Vaughan/GeoReporter/GeoReporter/Controllers/ReportController.h"
+                  timestampString = "534885018.834668"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "33"
                   endingLineNumber = "33"
-                  offsetFromSymbolStart = "20">
+                  offsetFromSymbolStart = "12">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "-[ReportController setReportImage:]"
-                  moduleName = "NOLA311"
+                  moduleName = "Vaughan311"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/developer/SkyDrive/RESPOND311-NOLA/GeoReporter/GeoReporter/Controllers/ReportController.h"
-                  timestampString = "519248385.662323"
+                  urlString = "file:///Users/developer/SkyDrive/RESPOND311-Vaughan/GeoReporter/GeoReporter/Controllers/ReportController.h"
+                  timestampString = "534885018.837889"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "33"
                   endingLineNumber = "33"
-                  offsetFromSymbolStart = "64">
+                  offsetFromSymbolStart = "49">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -938,7 +938,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "GeoReporter/Controllers/HomeController.m"
-            timestampString = "513436117.371139"
+            timestampString = "534885018.703296"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "214"
@@ -954,7 +954,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "GeoReporter/Controllers/HomeController.m"
-            timestampString = "513437772.701326"
+            timestampString = "534885018.704404"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "273"
@@ -970,7 +970,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "GeoReporter/Controllers/HomeController.m"
-            timestampString = "513437772.701326"
+            timestampString = "534885018.705428"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "293"
@@ -986,7 +986,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "GeoReporter/Controllers/HomeController.m"
-            timestampString = "513437772.701326"
+            timestampString = "534885018.706621"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "402"
@@ -1002,7 +1002,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "GeoReporter/Controllers/HomeController.m"
-            timestampString = "513437772.701326"
+            timestampString = "534885018.707717"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "450"
@@ -1018,7 +1018,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "GeoReporter/Controllers/HomeController.m"
-            timestampString = "513437772.701326"
+            timestampString = "534885018.709752"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "467"
@@ -1098,7 +1098,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "GeoReporter/Controllers/HomeController.m"
-            timestampString = "513437772.701326"
+            timestampString = "534885018.711869"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "446"
@@ -1114,7 +1114,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "GeoReporter/Controllers/HomeController.m"
-            timestampString = "513437772.701326"
+            timestampString = "534885018.713498"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "403"
@@ -1178,7 +1178,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "GeoReporter/Models/Open311.m"
-            timestampString = "513113584.938848"
+            timestampString = "534885018.715364"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "393"
@@ -1290,7 +1290,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "GeoReporter/Controllers/HomeController.m"
-            timestampString = "513437772.701326"
+            timestampString = "534885018.715627"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "436"
@@ -1306,7 +1306,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "GeoReporter/Controllers/HomeController.m"
-            timestampString = "513437772.701326"
+            timestampString = "534885018.717155"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "413"
@@ -1338,7 +1338,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "GeoReporter/Controllers/HomeController.m"
-            timestampString = "513437772.701326"
+            timestampString = "534885018.718729"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "468"
@@ -1354,7 +1354,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "GeoReporter/Controllers/HomeController.m"
-            timestampString = "513437772.701326"
+            timestampString = "534885018.720413"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "437"
@@ -1370,7 +1370,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "GeoReporter/Controllers/HomeController.m"
-            timestampString = "513437772.701326"
+            timestampString = "534885018.722057"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "441"
@@ -1386,7 +1386,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "GeoReporter/Controllers/HomeController.m"
-            timestampString = "513437772.701326"
+            timestampString = "534885018.724158"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "440"
@@ -1402,7 +1402,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "GeoReporter/Controllers/HomeController.m"
-            timestampString = "513436117.371139"
+            timestampString = "534885018.725557"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "211"
@@ -1434,7 +1434,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "GeoReporter/Controllers/HomeController.m"
-            timestampString = "513437772.701326"
+            timestampString = "534885018.726944"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "264"
@@ -1450,7 +1450,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "GeoReporter/Controllers/HomeController.m"
-            timestampString = "513437772.701326"
+            timestampString = "534885018.728703"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "430"
@@ -1466,7 +1466,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "GeoReporter/Controllers/HomeController.m"
-            timestampString = "513437772.701326"
+            timestampString = "534885018.730459"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "414"
@@ -1482,7 +1482,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "GeoReporter/Controllers/HomeController.m"
-            timestampString = "513436117.371139"
+            timestampString = "534885018.73219"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "225"
@@ -1498,7 +1498,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "GeoReporter/Controllers/HomeController.m"
-            timestampString = "513437772.701326"
+            timestampString = "534885018.734248"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "415"
@@ -1514,7 +1514,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "GeoReporter/Controllers/HomeController.m"
-            timestampString = "513437772.701326"
+            timestampString = "534885018.735599"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "420"
@@ -1560,7 +1560,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "GeoReporter/Controllers/HomeController.m"
-            timestampString = "513437772.701326"
+            timestampString = "534885018.736867"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "253"
@@ -1576,7 +1576,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "GeoReporter/Controllers/HomeController.m"
-            timestampString = "513437772.701326"
+            timestampString = "534885018.73811"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "256"
@@ -1588,11 +1588,11 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "GeoReporter/Controllers/HomeController.m"
-            timestampString = "513437772.701326"
+            timestampString = "534885018.739335"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "474"
@@ -1604,11 +1604,11 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "GeoReporter/Controllers/HomeController.m"
-            timestampString = "513437772.701326"
+            timestampString = "534885018.740486"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "473"
@@ -1620,16 +1620,16 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "GeoReporter/Controllers/HomeController.m"
-            timestampString = "513437772.701326"
+            timestampString = "534885018.741573"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "475"
             endingLineNumber = "475"
-            landmarkName = "@implementation HomeController"
+            landmarkName = "HomeController"
             landmarkType = "3">
          </BreakpointContent>
       </BreakpointProxy>
@@ -1656,12 +1656,92 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "GeoReporter/Controllers/HomeController.m"
-            timestampString = "513437772.701326"
+            timestampString = "534885018.742674"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "252"
             endingLineNumber = "252"
             landmarkName = "-tableView:didSelectRowAtIndexPath:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GeoReporter/Controllers/HomeController.m"
+            timestampString = "534885018.74369"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "-viewWillAppear:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GeoReporter/Models/Open311.m"
+            timestampString = "534885018.744688"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "237"
+            endingLineNumber = "237"
+            landmarkName = "-loadAccountList"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GeoReporter/Models/Open311.m"
+            timestampString = "534885018.744749"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "246"
+            endingLineNumber = "246"
+            landmarkName = "-loadAccountList"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GeoReporter/Controllers/ChooseGroupController.m"
+            timestampString = "534879606.889428"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "-prepareForSegue:sender:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GeoReporter/Controllers/ReportFields/LocationController.m"
+            timestampString = "534885018.744875"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "-viewDidLoad"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>

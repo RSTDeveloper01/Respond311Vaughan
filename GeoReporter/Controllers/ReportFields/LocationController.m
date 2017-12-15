@@ -48,6 +48,8 @@ static CLLocationDegrees const kLongitudeDelta = 0.0080;
 //        [locationManager requestWhenInUseAuthorization];
 //    
 //    [locationManager startUpdatingLocation];
+    lat = @"43.8372";
+    longitude = @"-79.5083";
 
     if(!(lat==nil || [lat isEqualToString:@""]) && !(longitude==nil || [longitude isEqualToString:@""]))
     {

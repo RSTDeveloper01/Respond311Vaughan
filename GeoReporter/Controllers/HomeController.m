@@ -87,10 +87,10 @@ static NSString * const kSegueToBrowser = @"SegueToBrowser";
             NSDictionary* server= [[NSDictionary alloc]initWithObjectsAndKeys:
                                    [NSNumber numberWithBool:TRUE],kOpen311_SupportsMedia,
                                    @"json",kOpen311_Format,
-                                   @"http://respond311demoapi.respondcrm.com/Open311API.svc/",kOpen311_Url,
+                                   @"http://respond311vaughanapi.respondcrm.com/Open311API.svc/",kOpen311_Url,
                                    @"00000000-0000-0000-0000-000000000000",kOpen311_ApiKey,
-                                   @"Respond311",kOpen311_Name,
-                                   @"respond311",kOpen311_Jurisdiction,nil];
+                                   @"Respond311Vaughan",kOpen311_Name,
+                                   @"respond311vaughan",kOpen311_Jurisdiction,nil];
             currentServer = server;
             [preferences setCurrentServer:server];
             
@@ -241,7 +241,7 @@ static NSString * const kSegueToBrowser = @"SegueToBrowser";
             [self.tabBarController setSelectedIndex:kTab_Archive];
         }
         if(indexPath.row ==2){
-            urlToWebView = @"http://respond311web.respondcrm.com/Pages/KBSearch.aspx";
+            urlToWebView = @"http://respond311vaughanweb.respondcrm.com/Pages/KBSearch.aspx";
             //WebViewController *webController = [[WebViewController alloc] initWithNib:@"WebViewController" bundle:nil];
             //webController.viewURL = @"www.google.com"; // Set the exposed property
             
@@ -249,7 +249,7 @@ static NSString * const kSegueToBrowser = @"SegueToBrowser";
             //[[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"http://www.google.com"]];
         }
         if(indexPath.row ==3){
-            urlToWebView = @"https://calendar.burlington.ca/";
+            urlToWebView = @"https://www.vaughan.ca/events/pages/event_calendar.aspx";
 //WebViewController *webController = [[WebViewController alloc] initWithNib:@"WebViewController" bundle:nil];
             //webController.viewURL = @"www.google.com"; // Set the exposed property
             
@@ -257,7 +257,7 @@ static NSString * const kSegueToBrowser = @"SegueToBrowser";
             //[[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"http://www.google.com"]];
         }
         if(indexPath.row ==4){
-            urlToWebView = @"https://www.burlington.ca/en/Modules/News/search.aspx";
+            urlToWebView = @"https://www.vaughan.ca/news/Pages/default.aspx";
             //WebViewController *webController = [[WebViewController alloc] initWithNib:@"WebViewController" bundle:nil];
             //webController.viewURL = @"www.google.com"; // Set the exposed property
             
@@ -265,7 +265,7 @@ static NSString * const kSegueToBrowser = @"SegueToBrowser";
             //[[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"http://www.google.com"]];
         }
         if(indexPath.row ==5){
-            urlToWebView = @"http://respond311web.respondcrm.com/Pages/CaseMap.aspx";
+            urlToWebView = @"http://respond311vaughanweb.respondcrm.com/Pages/CaseMap.aspx";
             //WebViewController *webController = [[WebViewController alloc] initWithNib:@"WebViewController" bundle:nil];
             //webController.viewURL = @"www.google.com"; // Set the exposed property
             
@@ -273,7 +273,7 @@ static NSString * const kSegueToBrowser = @"SegueToBrowser";
             //[[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"http://www.google.com"]];
         }
         if(indexPath.row ==6){
-            urlToWebView = @"https://www.facebook.com/cityburlington/";
+            urlToWebView = @"https://www.facebook.com/thecityofvaughan";
             //WebViewController *webController = [[WebViewController alloc] initWithNib:@"WebViewController" bundle:nil];
             //webController.viewURL = @"www.google.com"; // Set the exposed property
             
@@ -281,7 +281,7 @@ static NSString * const kSegueToBrowser = @"SegueToBrowser";
             //[[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"http://www.google.com"]];
         }
         if(indexPath.row ==7){
-            urlToWebView = @"https://twitter.com/cityburlington";
+            urlToWebView = @"https://twitter.com/city_of_vaughan";
             //WebViewController *webController = [[WebViewController alloc] initWithNib:@"WebViewController" bundle:nil];
             //webController.viewURL = @"www.google.com"; // Set the exposed property
             
@@ -449,7 +449,7 @@ static NSString * const kSegueToBrowser = @"SegueToBrowser";
     
     if([tabBarController.tabBar.items objectAtIndex:kTab_Report] == viewController.tabBarItem){
         selectedAccount = [NSDictionary dictionaryWithObjectsAndKeys:
-                           @"Respond311",@"account_name",
+                           @"Respond311vaughan",@"account_name",
                            @"",@"url"
                            , nil];
         
